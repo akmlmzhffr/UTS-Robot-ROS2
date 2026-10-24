@@ -1,3 +1,10 @@
+1. AKMAL MUZHAFFAR (159)
+2. REZKI AKBAR KURNIAWAN (161)
+3. FATAH FAUZIAN (141)
+
+
+
+
 Membuat File Baru:
 - cd ~/ros2_ws colcon build source ~/.bashrc
 
